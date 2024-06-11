@@ -1,0 +1,50 @@
+_repo: Manuel-de-synonymie-Latine_73700
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Leclaire, Théophile
+    aliases:
+    - Leclaire, Th.‏
+    - Leclaire, Theophile
+    gutenberg_agent_id: '57185'
+    url: http://www.gutenberg.org/2009/agents/57185
+creator:
+  author:
+    agent_name: Doederlein, Ludwig von
+    aliases:
+    - Doderlein, Ludwig
+    - Von Doederlein, Ludwig
+    - Doederlein, Johann Ludwig Christoph Wilhelm von
+    - Döderlein, Ludwig von
+    - Döderlein, Ludwig
+    - Dœderlein, Louis
+    birthdate: 1791
+    deathdate: 1863
+    gutenberg_agent_id: '36257'
+    url: http://www.gutenberg.org/2009/agents/36257
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Johann_Christoph_Wilhelm_Ludwig_D%C3%B6derlein
+    - https://de.wikipedia.org/wiki/Ludwig_von_D%C3%B6derlein
+description: ''
+gutenberg_issued: '2024-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73700'
+language:
+- fr
+- la
+pgterms:marc904: https://www.google.fr/books/edition/Manuel_de_synonymie_latine/H6IPAAAAQAAJ?hl=fr&gbpv=1
+pgterms:marc905: 20240520081256vondderlei
+pgterms:marc906: '1865'
+pgterms:marc907: fr
+production_note: Aurēliānus Agricola
+publication_note: '  $aLyon :$bLibrairie Classique de Perisse Frères, $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin language -- Synonyms and antonyms'
+- !lcc 'PA'
+- GITenberg
+title: Manuel de synonymie Latine
+url: http://www.gutenberg.org/ebooks/73700
